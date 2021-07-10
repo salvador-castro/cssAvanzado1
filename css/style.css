@@ -1,0 +1,32 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p { 
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    color: white;
+}
+
+ul{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: blue;
+    list-style: inside;
+}
+
+nav {
+    background: linear-gradient(to bottom, blue, white);
+    box-shadow: 0 0 5px rgb(255, 0, 0);
+}
